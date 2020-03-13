@@ -1,0 +1,12 @@
+{
+  "name": "BasicApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack -d"
+  },
+  "devDependencies": {
+    "webpack": "2.6.1"
+  }
+}
